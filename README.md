@@ -250,3 +250,9 @@ Contributed to **FOSSASIA Open Event Frontend** by fixing bugs, improving UI com
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sidd0908/Sidd0908/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>

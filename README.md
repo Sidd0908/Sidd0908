@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Siddharth%20Mina&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Competitive%20Programmer&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Siddharth&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
 
 <h3>Building AI-powered products with LLMs, Cloud & Modern Web Technologies 🚀</h3>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Siddharth Mina
+# Hi 👋, I'm Siddharth.
 
 ### AI Engineer • Full Stack Developer • Competitive Programmer
 

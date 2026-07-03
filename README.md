@@ -1,199 +1,33 @@
-<p align="center">
-  <img src="YOUR_CUSTOM_BANNER.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Siddharth</h1>
+<h3 align="center">AI Engineer • Full Stack Developer • Competitive Programmer</h3>
+
+- 🔭 I’m currently working on [ReLifeAI – AI-powered Circular Commerce Platform](https://github.com/Sidd0908/ReLifeAI/tree/backup-local)
+
+- 🌱 I’m currently learning **AI Agents, Advanced RAG, AWS Cloud, System Design**
+
+- 👯 I’m looking to collaborate on **AI, Open Source, Full Stack Projects**
+
+- 🤝 I’m looking for help with **Large-scale AI Systems & Cloud Architecture**
+
+- 💬 Ask me about **React, Node.js, Express, MongoDB, FastAPI, RAG, LLMs, AWS**
+
+- 📫 How to reach me **siddharthmina121@gmail.com**
+
+- ⚡ Fun fact **I can spend hours optimizing APIs for milliseconds.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/siddharth." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth." height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/siddharth_0908" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddharth_0908" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/siddharth0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddharth0908" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/siddharth_0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharth_0908" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Siddharth Mina</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Competitive Programmer
-</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd0908&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sidd0908" /></p>
 
-<p align="center">
-Building AI-powered software with LLMs, Cloud & Modern Web Technologies.
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidd0908&show_icons=true&theme=tokyonight&locale=en" alt="sidd0908" /></p>
 
-<p align="center">
-<a href="mailto:siddharthmina121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Sidd0908"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"></a>
-</p>
-
----
-## 🚀 About Me
-
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidd0908&layout=compact&theme=tokyonight&hide_border=true"/>
-
-- 🎓 Final Year @ IIT (ISM) Dhanbad
-- 🤖 Building AI-powered applications with LLMs & RAG
-- 💻 Full Stack Developer (React, Node.js, MongoDB)
-- ☁️ Learning AWS & AI Agents
-- 🌱 Open Source Contributor
-- 🏆 Codeforces Expert (1735)
-- ⭐ CodeChef 5★ Programmer
-  
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,firebase,aws,docker,git,github,linux,fastapi"/>
-</p>
-
----
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 ReLifeAI
-
-AI-powered Circular Commerce Platform that leverages multiple AI engines to automate product assessment, lifecycle decisions, buyer matching, and sustainability analytics.
-
-**Tech:** React • TypeScript • Node.js • MongoDB • AWS • Bedrock • Rekognition
-
-<a href="https://github.com/Sidd0908/ReLifeAI/tree/backup-local">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 SHL Recommendation System
-
-Semantic recommendation engine built with RAG, FAISS, SentenceTransformers, and Llama 3.3 for intelligent SHL assessment retrieval.
-
-**Tech:** FastAPI • Python • FAISS • Llama 3.3 • SentenceTransformers
-
-<a href="https://github.com/Sidd0908/SHL_TEST_RECOMMENDER_SYSTEM">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌍 TripNest
-
-Full-stack travel booking platform featuring authentication, trip management, booking workflows, secure REST APIs, and Firebase integration.
-
-**Tech:** JavaScript • Node.js • Express • MongoDB • Firebase
-
-<a href="https://github.com/Sidd0908/TripNest11">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎬 MovieMania
-
-Modern movie discovery platform with responsive UI, trending movies, advanced search, and TMDB API integration.
-
-**Tech:** React • JavaScript • TMDB API
-
-<a href="https://github.com/Sidd0908/moviemania">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-### 🌱 Open Source Contributions
-
-Contributed to **FOSSASIA Open Event Frontend**, fixing bugs, improving UI components, and collaborating on a production-scale open-source project.
-
-**Tech:** React • Ember.js • JavaScript • Open Source
-
-<a href="https://github.com/Sidd0908/open-event-frontend">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidd0908&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidd0908&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidd0908&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-# 🏆 Competitive Programming
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Codeforces-Expert%20(1735)-1F8ACB?style=for-the-badge&logo=codeforces"/>
-
-<img src="https://img.shields.io/badge/CodeChef-5★%20(2017)-5B4638?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/Best%20Ranks-GR%2035%20%7C%20GR%2077-success?style=for-the-badge"/>
-
-</div>
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidd0908&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/Siddhrth.">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:siddharthmina121@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sidd0908">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-  
-</p>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! ⭐
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidd0908&" alt="sidd0908" /></p>

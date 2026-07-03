@@ -1,33 +1,530 @@
-<h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Competitive Programmer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [ReLifeAI – AI-powered Circular Commerce Platform](https://github.com/Sidd0908/ReLifeAI/tree/backup-local)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=220&section=header&text=Siddharth%20Mina&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Competitive%20Programmer&descAlignY=60"/>
 
-- 🌱 I’m currently learning **AI Agents, Advanced RAG, AWS Cloud, System Design**
+<h3>
+Building AI-powered software with LLMs, Cloud & Modern Web Technologies 🚀
+</h3>
 
-- 👯 I’m looking to collaborate on **AI, Open Source, Full Stack Projects**
+<p>
 
-- 🤝 I’m looking for help with **Large-scale AI Systems & Cloud Architecture**
+<a href="mailto:siddharthmina121@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 💬 Ask me about **React, Node.js, Express, MongoDB, FastAPI, RAG, LLMs, AWS**
+<a href="https://www.linkedin.com/in/siddharth-869675287">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 📫 How to reach me **siddharthmina121@gmail.com**
+<a href="https://github.com/Sidd0908">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-- ⚡ Fun fact **I can spend hours optimizing APIs for milliseconds.**
+<a href="https://codeforces.com/profile/Siddharth0908">
+<img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/siddharth." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth." height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/siddharth_0908" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddharth_0908" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/siddharth0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddharth0908" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/siddharth_0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharth_0908" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/siddharth_0908">
+<img src="https://img.shields.io/badge/CodeChef-5★-5B4638?style=for-the-badge"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd0908&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sidd0908" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidd0908&show_icons=true&theme=tokyonight&locale=en" alt="sidd0908" /></p>
+# 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidd0908&" alt="sidd0908" /></p>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidd0908&layout=compact&theme=tokyonight&hide_border=true"/>
+
+```typescript
+const siddharth = {
+    education: "Final Year @ IIT (ISM) Dhanbad",
+    role: "AI Engineer & Full Stack Developer",
+
+    currentlyWorkingOn: "ReLifeAI",
+
+    interests: [
+        "Artificial Intelligence",
+        "Large Language Models",
+        "RAG",
+        "Backend Engineering",
+        "Cloud Computing",
+        "Open Source"
+    ],
+
+    competitiveProgramming: {
+        codeforces: "Expert (1735)",
+        codechef: "5★ Programmer",
+        leetcode: "200+ Problems"
+    }
+}
+```
+
+<br>
+
+- 🤖 Passionate about building **AI-powered products**
+- 💻 Love developing scalable **Backend & Full Stack Applications**
+- 🌱 Currently exploring **AI Agents, AWS & Advanced RAG**
+- 🏆 **Codeforces Expert (1735)** | **CodeChef 5★**
+- 🤝 Open to **Open Source** and **AI collaborations**
+
+---
+
+# ⚡ Current Focus
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Building
+
+- ReLifeAI
+- AI Agents
+- RAG Applications
+
+</td>
+
+<td width="50%">
+
+### 📚 Learning
+
+- AWS
+- System Design
+- Scalable Backend
+- Distributed Systems
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres"/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-2E77BC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Llama-FF6F00?style=for-the-badge"/>
+
+</p>
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman"/>
+
+</div>
+
+---
+
+# 🏆 Competitive Programming
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Codeforces-Expert_(1735)-1F8ACB?style=for-the-badge&logo=codeforces"/>
+
+<img src="https://img.shields.io/badge/CodeChef-5★_Programmer-5B4638?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LeetCode-150+_Problems-FFA116?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Best_Ranks-GR_35_|_GR_77-success?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 ReLifeAI
+
+<img src="./assets/relife.png" alt="ReLifeAI" width="100%"/>
+
+AI-powered Circular Commerce Platform that automates reverse logistics using multiple AI engines for product inspection, lifecycle decisions, buyer discovery, and sustainability analytics.
+
+**Highlights**
+
+- 🤖 6 AI Engines
+- 📦 Product Passport
+- 📈 Return Risk Prediction
+- 🎯 Buyer Recommendation
+- ♻️ Circular Commerce Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+
+</p>
+
+<a href="https://github.com/Sidd0908/ReLifeAI/tree/backup-local">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 SHL Recommendation System
+
+<img src="./assets/shl.png" width="100%"/>
+
+Semantic Recommendation Engine powered by Retrieval-Augmented Generation, Llama 3.3 and Vector Search.
+
+**Highlights**
+
+- 🔍 Semantic Search
+- ⚡ FastAPI
+- 📚 FAISS Vector Search
+- 🧠 Llama 3.3
+- 🚀 Context-aware Recommendations
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG-FF9800?style=flat-square"/>
+
+</p>
+
+<a href="https://github.com/Sidd0908/SHL_TEST_RECOMMENDER_SYSTEM">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌍 TripNest
+
+<img src="./assets/tripnest.png" width="100%"/>
+
+Modern Full Stack Travel Booking Platform supporting authentication, trip management, booking workflows, secure APIs, and personalized dashboards.
+
+**Highlights**
+
+- ✈️ Trip Booking
+- 🔐 Firebase Authentication
+- 📅 Booking Management
+- 📱 Responsive UI
+- ⚡ REST APIs
+
+<p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+
+</p>
+
+<a href="https://github.com/Sidd0908/TripNest11">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎬 MovieMania
+
+<img src="./assets/moviemania.png" width="100%"/>
+
+Responsive Movie Discovery Platform with search, trending movies, category browsing and real-time TMDB integration.
+
+**Highlights**
+
+- 🎬 Trending Movies
+- 🔍 Search
+- ❤️ Favorites
+- 📱 Responsive Design
+- ⚡ API Integration
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/TMDB-01D277?style=flat-square"/>
+
+</p>
+
+<a href="https://github.com/Sidd0908/moviemania">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🌱 Open Source
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOSSASIA-Open%20Source-blue?style=for-the-badge"/>
+
+</div>
+
+### 🚀 Open Event Frontend
+
+Contributed to **FOSSASIA's Open Event Frontend**, working on frontend improvements, bug fixes and feature enhancements for a production-scale event management platform.
+
+**Contribution Areas**
+
+- 🐞 Bug Fixes
+- ✨ UI Improvements
+- ⚛ React Development
+- 🤝 Collaborative Open Source Development
+
+<a href="https://github.com/Sidd0908/open-event-frontend">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidd0908&theme=tokyonight"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sidd0908&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sidd0908&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sidd0908&theme=tokyonight&utcOffset=5.5"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sidd0908&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Sidd0908&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidd0908&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+# 🏅 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sidd0908&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📌 Highlights
+
+<div align="center">
+
+| 🏆 Achievement | 📈 Details |
+|---------------|-----------|
+| 🏅 Finalist | **Amazon HackOn 2026**|
+| 🟡 Codeforces | **Expert (1735)** |
+| ⭐ CodeChef | **5★ Programmer (Peak 2017)** |
+| 💻 LeetCode | **200+ Problems Solved** |
+| 🌍 Best Global Ranks | **35 & 77** |
+| 🤖 AI | LLMs • RAG • AI Agents |
+| 🌱 Open Source | FOSSASIA Contributor |
+
+</div>
+
+---
+
+# ⚡ Currently Working On
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI
+
+- ReLifeAI
+- AI Agents
+- RAG Pipelines
+- Knowledge Graphs
+
+</td>
+
+<td width="50%">
+
+### ☁️ Backend
+
+- FastAPI
+- Node.js
+- AWS
+- System Design
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready AI applications
+- 🌍 Contribute consistently to Open Source
+- ☁️ Deep dive into AWS Cloud
+- 🧠 Learn Distributed Systems
+- 📚 Improve System Design skills
+
+---
+
+# 💻 Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,postman"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/siddharth-869675287">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:siddharthmina121@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sidd0908">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/Siddharth_0908">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/Siddharth0908">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/siddharth_0908">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+> **"I enjoy building products that solve real-world problems using AI, scalable backend systems, and modern web technologies."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=140&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories.
+
+</div>

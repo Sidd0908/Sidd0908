@@ -208,16 +208,6 @@ Contributed to **FOSSASIA Open Event Frontend** by fixing bugs, improving UI com
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sidd0908&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
 # 🏆 Achievements
 
 <div align="center">
@@ -246,39 +236,12 @@ Contributed to **FOSSASIA Open Event Frontend** by fixing bugs, improving UI com
 
 ---
 
-# 📫 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/siddharth-869675287"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="mailto:siddharthmina121@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+<a href="https://github.com/Sidd0908"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+</p>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/siddharth-869675287">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:siddharthmina121@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Sidd0908">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/Siddharth_0908">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://codeforces.com/profile/Siddharth0908">
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="48"/>
-</a>
-
-</div>
 
 ---
 

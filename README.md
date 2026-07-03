@@ -33,7 +33,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidd0908&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidd0908&layout=compact&theme=tokyonight&hide_border=true"/>
 ```cpp
 class SiddharthMina {
 
